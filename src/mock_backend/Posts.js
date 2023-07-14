@@ -2,7 +2,7 @@ const posts = [
   {
     id: 1,
     initial: "A",
-    name: "Abhideep Ghosh",
+    name: "Pavan Mohinkar",
     description: "Project Owner",
     post: `Linkedin Clone is a web application built using React and
         Redux that replicates the functionality of the popular

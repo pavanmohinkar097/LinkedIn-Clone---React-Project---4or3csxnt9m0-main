@@ -1,7 +1,7 @@
 const userMap = new Map([
   [
-    "abhideepghosh@gmail.com",
-    { id: 1, name: "Abhideep Ghosh", password: "Newtonschool123" },
+    "pavanmohi097@gmail.com",
+    { id: 1, name: "Pavan Mohinkar", password: "Pass@123" },
   ],
   [
     "swatisharma@gmail.com",
