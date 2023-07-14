@@ -1,5 +1,6 @@
 # LinkedIn Clone Using React And Redux
 
-## Project By Abhideep Ghosh
+## Project By Pavan Mohinkar
 
-## Site Live At: https://linkedin-clone-nwsc.netlify.app/
+
+
